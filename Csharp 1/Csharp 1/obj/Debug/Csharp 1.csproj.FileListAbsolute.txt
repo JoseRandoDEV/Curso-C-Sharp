@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\bin\Debug\Csharp 1.exe.config
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\bin\Debug\Csharp 1.exe
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\bin\Debug\Csharp 1.pdb
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\obj\Debug\Csharp_1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.exe
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.pdb
+C:\Users\Usuario\Desktop\Curso-Visual C#\Csharp 1\Csharp 1\obj\Debug\Csharp_1.Form1.resources
